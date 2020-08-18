@@ -44,7 +44,14 @@
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
+
+
 * JBBesancon.
-* Axel GRANGER.
-Axel duxin 
-Aymeric Henriet
+* Axel GRANGER. master
+* Sonnet Quentin
+* Dorian GRIGI
+* Rémi DEHER
+* Tanguy De Vecchi
+* Axel duxin 
+* Aymeric Henriet
+
