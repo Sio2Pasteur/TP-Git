@@ -53,7 +53,9 @@ Liste des étudiants ayant réussi ce TP
 * Tanguy De Vecchi
 * Axel duxin 
 * Aymeric Henriet
+* Frédéric JEANNIN
 * Pouillard Mathieu
 * Jules Courvoisier
 * Lucas Villalonga
+
 
