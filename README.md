@@ -44,5 +44,15 @@
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
-* POUILLARD Mathieu,
+
+
+* JBBesancon.
+* Axel GRANGER. master
+* Sonnet Quentin
+* Dorian GRIGI
+* Rémi DEHER
+* Tanguy De Vecchi
+* Axel duxin 
+* Aymeric Henriet
+* Pouillard Mathieu
 
