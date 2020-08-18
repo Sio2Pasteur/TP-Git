@@ -45,7 +45,6 @@ Liste des étudiants ayant réussi ce TP
 --------------------------------------
 
 
-
 * JBBesancon.
 * Axel GRANGER. master
 * Sonnet Quentin
@@ -55,4 +54,8 @@ Liste des étudiants ayant réussi ce TP
 * Axel duxin 
 * Aymeric Henriet
 * Frédéric JEANNIN
+* Pouillard Mathieu
+* Jules Courvoisier
+* Lucas Villalonga
+
 
