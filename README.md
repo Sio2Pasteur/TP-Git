@@ -43,5 +43,4 @@
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
-
-* JBBesancon.
+Lucas Villalonga
